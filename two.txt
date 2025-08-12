@@ -2,8 +2,4 @@ This a new branch
 
 hence new file
 
-<<<<<<< HEAD
-writing something in this to check what will happen when merging 
-=======
 lets test the confict part 
->>>>>>> lulaby
